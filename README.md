@@ -14,7 +14,7 @@ Each record in the CSV file consists of the following columns:
 ID: A unique identifier for each student.  
 Q1: Mark for question1  
 Q2: Mark for question2  
-...
+...  
 Q5: Mark for question3  
 Programme: The major in which the student is enrolled
 
