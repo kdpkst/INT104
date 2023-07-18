@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This machine learning project aims to classify and cluster students based on their marks from different academic majors. The provided CSV file (Data.csv) contains student records, including the mark for each question and corresponding major information, which will be used for training the classification and clustering models.
+This machine learning project aims to classify and cluster students based on their marks from different majors. The provided CSV file (Data.csv) contains student records, including the mark for each question and corresponding student information, which will be used for training the classification and clustering models.
 
 Each record in the CSV file consists of the following columns:
 
@@ -27,6 +27,8 @@ Programme: The major in which the student is enrolled
 
 ## Prerequisite
 
-Make sure that conda environment has been configured on your machine.
+- Python installed and configured
+- conda environment configured
+
 
 
