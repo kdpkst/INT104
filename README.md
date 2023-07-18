@@ -1,4 +1,4 @@
-# Majors-Marks-ML-Classification
+# Machine Learning -- Classification and Clustering of Students based on their Marks
 
 ## Table of Contents
 
