@@ -11,12 +11,12 @@ This machine learning project aims to classify and cluster students based on the
 
 Each record in the CSV file consists of the following columns:
 
-ID: A unique identifier for each student.
-Q1: 
-Q2:
+ID: A unique identifier for each student.  
+Q1: Mark for question1  
+Q2: Mark for question2  
 ...
-Q5:
-Programme:
+Q5: Mark for question3  
+Programme: The major in which the student is enrolled
 
 ## Features
 
