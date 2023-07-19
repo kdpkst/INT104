@@ -5,6 +5,7 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Prerequisite](#prerequisite)
+4. [Document](#document)
 
 ## Introduction
 
@@ -29,6 +30,9 @@ Programme: The major in which the student is enrolled
 
 - Python installed and configured
 - conda environment configured
+
+## Document
+project_report.pdf is the report for this project. click [here](./project_report.pdf) to read the report.
 
 
 
