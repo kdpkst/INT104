@@ -1,6 +1,4 @@
-# Machine Learning -- Classification and Clustering of Students based on their Marks
-
-## Table of Contents
+# Machine Learning -- Classification and Clustering based on Student Mark
 
 1. [Introduction](#introduction)
 2. [Features](#features)
