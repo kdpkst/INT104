@@ -30,7 +30,7 @@ Programme: The major in which the student is enrolled
 - conda environment configured
 
 ## Document
-project_report.pdf is the report for this project. Click [here](./project_report.pdf) to read the report.
+project_report.pdf is the report for this project. [Click](./project_report.pdf) to read the report.
 
 
 
