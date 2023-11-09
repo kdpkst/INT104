@@ -1,4 +1,4 @@
-# Classification and Clustering with Machine Learning Approach
+# Classification and Clustering based on Machine Learning Approach
 
 1. [Introduction](#introduction)
 2. [Features](#features)
