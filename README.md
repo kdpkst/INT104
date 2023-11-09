@@ -1,4 +1,4 @@
-# Machine Learning -- Classification and Clustering based on Student Mark
+# Classification and Clustering with Machine Learning Approach
 
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -19,18 +19,16 @@ Q5: Mark for question3
 Programme: The major in which the student is enrolled
 
 ## Features
-
 - **Data Preprocessing:** Clean, preprocess, and transform the student marks dataset for model training and analysis.
 - **Classification:** Utilize machine learning algorithms to classify students into different majors based on their marks.
 - **Clustering:** Employ clustering techniques to group students with similar academic performances, enabling pattern discovery.
 
 ## Prerequisite
-
-- Python installed and configured
-- conda environment configured
+- Python3
+- anaconda
 
 ## Document
-project_report.pdf is the report for this project. [Click](./project_report.pdf) to read the report.
+For detailed information about this project, please [Click](./project/report.pdf) to read the report.
 
 
 
