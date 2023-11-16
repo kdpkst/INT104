@@ -20,11 +20,6 @@ The following shows the columns in the dataset:
 | **Q5**      | Mark for question 5.                               |
 | **Programme** | The major in which the student is enrolled.      |
 
-## Features
-- **Data Preprocessing:** Clean, preprocess, and transform the student marks dataset for model training and analysis.
-- **Classification:** Utilize machine learning algorithms to classify students into different majors based on their marks.
-- **Clustering:** Employ clustering techniques to group students with similar academic performances, enabling pattern discovery.
-
 ## Workflow
 ### Data Exploration and Preprocessing
 1. **Data Loading and Preprocessing:**
