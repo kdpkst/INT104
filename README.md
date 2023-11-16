@@ -52,7 +52,7 @@ The following shows the columns in the dataset:
 - anaconda
 
 ## Document
-For detailed information about this project, please [Click](./project/report.pdf) to read the report.
+For detailed information about project specificaton, data exploration and preprocessing,  dimensionality reduction, classification and clustering, please [Click](./project/report.pdf) to read the report.
 
 
 
