@@ -1,13 +1,12 @@
 # Classification and Clustering based on Machine Learning Approach
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Prerequisite](#prerequisite)
-4. [Document](#document)
+This repository consists of two main folders: 
+- **project** folder: contain the source code and dataset (Data.csv) for the machine learning project.
+- **notes** folder: contain code examples for the usage of Python libraries (e.g., scikit-learn) related to machine learning, data visualization and etc.
 
 ## Introduction
 
-This machine learning project aims to classify and cluster students based on their marks from different majors. The provided CSV file (Data.csv) contains student records, including the mark for each question and corresponding student information, which will be used for training the classification and clustering models.
+The project aims to classify and cluster students based on their marks from different majors. The provided CSV file (Data.csv) contains student records, including the mark for each question and corresponding student information, which will be used for training the classification and clustering models.
 
 Each record in the CSV file consists of the following columns:
 
