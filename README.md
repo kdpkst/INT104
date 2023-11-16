@@ -31,9 +31,9 @@ The following shows the columns in the dataset:
    - Explore data distribution and skewness  
 3. **Data Visualization**
    - Generate histograms, density plots, box-and-whisker plots, correlation matrices plot, and scatter matrices.
-   - Visualize program-wise statistics with scatter plots for median, mean, standard deviation, minimum, and maximum marks.
+   - First gather students with the same programme in one list. Then, draw scatter plots for median, mean, standard deviation, minimum, and maximum marks for each programme.
 
-### Dimensionality Reduction and Feature Extraction
+### Dimensionality Reduction
 - Apply Principal Component Analysis (PCA).
 - Perform Independent Component Analysis (ICA).
 - Utilize t-Distributed Stochastic Neighbor Embedding (t-SNE).
