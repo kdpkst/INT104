@@ -25,7 +25,34 @@ The following shows the columns in the dataset:
 - **Classification:** Utilize machine learning algorithms to classify students into different majors based on their marks.
 - **Clustering:** Employ clustering techniques to group students with similar academic performances, enabling pattern discovery.
 
-## Prerequisite
+## Workflow
+### Data Exploration and Preprocessing
+1. **Data Loading and Preprocessing:**
+   - Load the dataset from the CSV file (Data.csv)
+   - Perform data preprocessing 
+2. **Descriptive Statistics:**
+   - Print descriptive statistics
+   - Analyze correlation between variables
+   - Explore data distribution and skewness  
+3. **Data Visualization**
+   - Generate histograms, density plots, box-and-whisker plots, correlation matrices plot, and scatter matrices.
+   - Visualize program-wise statistics with scatter plots for median, mean, standard deviation, minimum, and maximum marks.
+
+### Dimensionality Reduction and Feature Extraction
+- Apply Principal Component Analysis (PCA).
+- Perform Independent Component Analysis (ICA).
+- Utilize t-Distributed Stochastic Neighbor Embedding (t-SNE).
+- Implement Linear Discriminant Analysis (LDA).
+- Use Non-Negative Matrix Factorization (NMF).
+- Filter features based on variance.
+
+### Classification 
+- Train and evaluate Decision Tree, Random Forests, Logistic Regression, k-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM).
+
+### Clustering 
+- Apply k-Means, Agglomerative Clustering, and DBSCAN clustering algorithms.
+
+## Requirements
 - Python3
 - anaconda
 
