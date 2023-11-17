@@ -51,8 +51,11 @@ The following shows the columns in the dataset:
 - Python3
 - anaconda
 
-## Document
+## Usage and More Info
+
 For detailed information about project specificaton, data exploration and preprocessing,  dimensionality reduction, classification and clustering, please [Click](./project/report.pdf) to read the report.
+
+
 
 
 
