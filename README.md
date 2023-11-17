@@ -52,17 +52,10 @@ The following shows the columns in the dataset:
 - anaconda
 
 ## Getting Started
-
 To quickly explore the project, follow these steps:
 
-1. **Clone the Repository:**
-   ```
-   git clone https://github.com/kdpkst/
-   ```
-   ```
-   cd project
-   ```
-2. run the file classify_and_cluster.py and see the results.
+1. Clone the repository and cd to project folder
+2. run the file classify_and_cluster.py and observe the results.
 3. For detailed information about project specificaton, data exploration and preprocessing,  dimensionality reduction, classification and clustering, please [Click](./project/report.pdf) to read the report. Feel free to modify the codes as needed.
 
 
